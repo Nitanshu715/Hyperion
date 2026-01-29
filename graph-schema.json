@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "id": "string",
+      "type": "SERVICE | INSTANCE | POD | USER | DATABASE | API | IAM_ROLE",
+      "metadata": {
+        "name": "string",
+        "region": "string",
+        "owner": "string",
+        "criticality": "LOW | MEDIUM | HIGH",
+        "current_state": "HEALTHY | DEGRADED | ANOMALOUS"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "node_id",
+      "to": "node_id",
+      "relation": "DEPENDS_ON | CALLS | AUTHORIZED_BY | DEPLOYED_BY | CONNECTS_TO",
+      "weight": 0.0
+    }
+  ]
+}
