@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+incident_log.json
+sim_counter.txt
