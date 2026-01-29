@@ -1,4 +1,4 @@
-<h1 align="center">🌌 HYPERION — Cognitive Cloud Control System</h1>
+<h1 align="center">🌌 HYPERION - Cognitive Cloud Control System</h1>
 
 <p align="center">
   <img src="HyperionLogo.jpg" width="500"/>
