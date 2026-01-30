@@ -102,7 +102,6 @@ Decision: SAFE_RECOVERY
 ## 👨‍💻 Author
 
 **Nitanshu Tak**  
-Cloud + AI Engineer  
 
 ---
 
